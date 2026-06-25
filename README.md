@@ -1,5 +1,6 @@
  **Keyring-Flashlight**
  - A mini flashlight using AG3 cells, a split ring, an LED light, a PCB, a button, AG3 battery retainers, and heat shrink.
+
 Assembly Procedure
 1. Mount AG3 battery retainer into the PCB, and position so extruding metal tab is facing outward
 2. Solder the battery retainers to the PCB
